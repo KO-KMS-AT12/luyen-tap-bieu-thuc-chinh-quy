@@ -29,7 +29,7 @@ function bai3(str) {
             demPhuAm++;
         }
     }
-    console.log(demNguyenAm, demPhuAm);
+    console.log("So nguyen am phu am lan luot trong chuoi '" + str + "' la: " + demNguyenAm + "," + demPhuAm);
 }
 
 bai3('hello ... world !!! I am Peter');
